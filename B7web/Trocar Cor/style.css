@@ -1,0 +1,22 @@
+.main{
+    width: 500px;
+    height: 500px;
+    border: 5px solid yellow;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+.preto{
+    background-color: black;
+
+    color: white;
+}
+.red{
+    background-color: red;
+    color: aliceblue;
+}
+.blue{
+    background-color: blue;
+    color: red;
+}
